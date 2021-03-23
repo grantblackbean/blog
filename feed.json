@@ -6,7 +6,7 @@
     "feed_url": "https://tangledupin.blue/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Grant"
+        "name": "grant"
     },
     "items": [
         {
@@ -17,7 +17,7 @@
             "content_html": "<p><em>John Donne (1571-1631)</em></p>\n<p>Death, be not proud, though some have called thee<br>Mighty and dreadful, for thou are not so;<br>For those whom thou think’st thou dost overthrow<br>Die not, poor Death, nor yet canst thou kill me.<br>From rest and sleep, which but thy pictures be,<br>Much pleasure; then from thee much more must flow,<br>And soonest our best men with thee do go,<br>Rest of their bones, and soul’s delivery.<br>Thou’art slave to fate, chance, kings, and desperate men,<br>And dost with poison, war, and sickness dwell,<br>And poppy’or charms can make us sleep as well<br>And better than thy stroke; why swell’st thou then?<br>One short sleep past, we wake eternally,<br>And death shall be no more; Death, thou shalt die.</p>",
             "image": "https://tangledupin.blue/media/posts/3/alex-rodriguez-bw2T1NHJ-as-unsplash.jpg",
             "author": {
-                "name": "Grant"
+                "name": "grant"
             },
             "tags": [
                    "poetry"
