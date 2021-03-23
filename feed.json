@@ -9,20 +9,5 @@
         "name": "Grant"
     },
     "items": [
-        {
-            "id": "https://tangledupin.blue/cloud-19.html",
-            "url": "https://tangledupin.blue/cloud-19.html",
-            "title": "Cloud 19",
-            "summary": "Some babies never grow old. Stay blue, baby.",
-            "content_html": "<p>Some babies never grow old.</p>\n<p> </p>\n<p>Stay blue, baby.</p>",
-            "image": "https://tangledupin.blue/media/posts/1/baby.jpg",
-            "author": {
-                "name": "Grant"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-03-22T20:22:28-07:00",
-            "date_modified": "2021-03-22T20:22:59-07:00"
-        }
     ]
 }
