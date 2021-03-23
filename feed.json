@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Tangled Up in Blue",
+    "title": "t.u.i.blue",
     "description": "",
     "home_page_url": "https://tangledupin.blue",
     "feed_url": "https://tangledupin.blue/feed.json",
@@ -10,19 +10,20 @@
     },
     "items": [
         {
-            "id": "https://tangledupin.blue/19-reasons-why-baby-is-the-best.html",
-            "url": "https://tangledupin.blue/19-reasons-why-baby-is-the-best.html",
-            "title": "19 reasons why baby is the best",
-            "summary": " cool wooden stick nice hair scored lots of goals canucks captain handsome devil west coast express we fleeced pittsburgh for him kind of 48 goals in 03 with a wooden stick dreamy eyes cool swedish accent nature's perfect human still got it only played&hellip;",
-            "content_html": "<ol>\n<li>cool wooden stick</li>\n<li>nice hair</li>\n<li>scored lots of goals</li>\n<li>canucks captain</li>\n<li>handsome devil</li>\n<li>west coast express</li>\n<li>we fleeced pittsburgh for him kind of</li>\n<li>48 goals in 03</li>\n<li>with a wooden stick</li>\n<li>dreamy eyes</li>\n<li>cool swedish accent</li>\n<li>nature's perfect human</li>\n<li>still got it</li>\n<li>only played really good with vancouver</li>\n<li>read a cool brian burke story about him once</li>\n<li>name makes for a good wifi password</li>\n<li>wore the cool salmon jerseys</li>\n<li>mentored the sedins</li>\n<li>i'm always on cloud 19 baby</li>\n</ol>",
-            "image": "https://tangledupin.blue/media/posts/2/baby2.jpg",
+            "id": "https://tangledupin.blue/death-be-not-proud-holy-sonnet-10.html",
+            "url": "https://tangledupin.blue/death-be-not-proud-holy-sonnet-10.html",
+            "title": "Death, be not proud (Holy Sonnet 10)",
+            "summary": "John Donne (1571-1631) Death, be not proud, though some have called thee Mighty and dreadful, for thou are not so; For those whom thou think’st thou dost overthrow Die not, poor Death, nor yet canst thou kill me. From rest and sleep, which but thy&hellip;",
+            "content_html": "<p><em>John Donne (1571-1631)</em></p>\n<p>Death, be not proud, though some have called thee<br>Mighty and dreadful, for thou are not so;<br>For those whom thou think’st thou dost overthrow<br>Die not, poor Death, nor yet canst thou kill me.<br>From rest and sleep, which but thy pictures be,<br>Much pleasure; then from thee much more must flow,<br>And soonest our best men with thee do go,<br>Rest of their bones, and soul’s delivery.<br>Thou’art slave to fate, chance, kings, and desperate men,<br>And dost with poison, war, and sickness dwell,<br>And poppy’or charms can make us sleep as well<br>And better than thy stroke; why swell’st thou then?<br>One short sleep past, we wake eternally,<br>And death shall be no more; Death, thou shalt die.</p>",
+            "image": "https://tangledupin.blue/media/posts/3/alex-rodriguez-bw2T1NHJ-as-unsplash.jpg",
             "author": {
                 "name": "Grant"
             },
             "tags": [
+                   "poetry"
             ],
-            "date_published": "2021-03-22T20:36:53-07:00",
-            "date_modified": "2021-03-22T20:36:53-07:00"
+            "date_published": "2021-03-22T21:55:07-07:00",
+            "date_modified": "2021-03-22T21:55:07-07:00"
         }
     ]
 }
