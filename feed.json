@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Blog",
+    "description": "",
+    "home_page_url": "https://tangledupin.blue",
+    "feed_url": "https://tangledupin.blue/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Grant"
+    },
+    "items": [
+    ]
+}
